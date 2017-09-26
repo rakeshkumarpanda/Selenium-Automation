@@ -9,7 +9,7 @@ public class AssertTest {
 	public void test1()
 	{
 		System.out.println("Test1 Started");
-		Assert.assertNotEquals(true, false);
+		Assert.assertNotEquals(true, true);
 		System.out.println("Test1 Executed");
 	}
 	
